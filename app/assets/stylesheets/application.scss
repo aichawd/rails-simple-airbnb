@@ -1,1 +1,15 @@
 @import "bootstrap/scss/bootstrap";
+
+.letter-logo  {
+  text-decoration: none;
+  color: rgb(32, 31, 31);
+}
+
+.add-flat {
+  text-decoration: none;
+  color: rgb(53, 53, 53);
+}
+
+.navbar .btn-add:hover {
+  background-color: rgb(231, 225, 225);
+}
